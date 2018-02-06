@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="ask_btn">Spør meg!</string>
+    <string name="app_heading">Make everyday decisions easier!</string>
+    <string name="btn_desc">ask me button</string>
+    <string name="img_desc">fortune 8-ball</string>
+    <string name="heading_desc">description pitch</string>
 </resources>
